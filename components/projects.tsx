@@ -21,7 +21,7 @@ const projects = [
     title: "Scroll Project",
     description:
       "A mobile app which limits daily social media usage by locking access after a set time is reached. It then offers fun, brain-training activities to boost focus and productivity",
-    tech: ["UI/UX Design", "Figma", "Chatbot"],
+    tech: ["UI/UX Design", "Figma", "social-media-app"],
     category: "Design",
     links: { figma: "https://www.figma.com/proto/jsLj3dfSwuHpL5BKopzUqJ/Scroll?node-id=273-1155&p=f&t=wukys5sBsAwZNYyq-0&scaling=scale-down&content-scaling=fixed&page-id=273%3A1155" },
   },
